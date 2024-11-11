@@ -1,22 +1,5 @@
 From the gathered information, here is a basic README.md for the `itach93/bankapp` repository:
 
-```markdown
-# BankApp
-
-## Description
-BankApp is a Java-based application designed to manage banking operations. The repository contains the source code and relevant files for building and running the application.
-
-## Features
-- Manage customer accounts
-- Process transactions
-- Generate account statements
-
-## Getting Started
-
-### Prerequisites
-- Java Development Kit (JDK) 11 or higher
-- Docker (optional, for containerized deployment)
-
 ### Installation
 1. Clone the repository:
    ```bash
