@@ -1,0 +1,16 @@
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/repository/UserRepository.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/repository/AccountingJournalRepository.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/controller/AuthController.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/model/User.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/model/Account.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/dto/TransactionRequest.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/util/JwtUtil.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/service/AccountService.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/controller/AccountController.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/repository/AccountRepository.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/BankappApplication.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/model/TransactionType.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/model/AccountingJournal.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/dto/LoginRequest.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/service/UserService.java
+/Users/danielfranklin/Downloads/Projects/java/afric-remit-test/bankapp/src/main/java/afric/remit/bankapp/dto/RegisterRequest.java
